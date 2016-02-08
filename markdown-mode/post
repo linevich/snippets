@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# name: post
+# key: post
+# --
+Title: $0
+Date: 
+Slug: $1
+Summary: 
+Category: $2
+Lang: $3
+Image: 
+Tags: $4
